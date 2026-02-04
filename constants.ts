@@ -1,0 +1,1 @@
+export const COURSE_LINK = "https://www.pse-learning.co.kr/course/course_view.jsp?id=194998&cid=#course-view-194998";
